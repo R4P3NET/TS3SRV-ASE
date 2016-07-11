@@ -1,0 +1,11 @@
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\bin\x86\Debug\Community.CsharpSqlite.SQLiteClient.dll.config
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\bin\x86\Debug\Community.CsharpSqlite.SQLiteClient.dll
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\bin\x86\Debug\Community.CsharpSqlite.SQLiteClient.pdb
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\bin\x86\Debug\Community.CsharpSqlite.dll
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\bin\x86\Debug\Community.CsharpSqlite.pdb
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\obj\x86\Debug\Community.CsharpSqlite.SQLiteClient.csprojResolveAssemblyReference.cache
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\obj\x86\Debug\Community.CsharpSqlite.SQLiteClient.dll
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\obj\x86\Debug\Community.CsharpSqlite.SQLiteClient.pdb
+D:\Projekte\C#\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\obj\x86\Debug\Community.CsharpSqlite.SQLiteClient.csprojResolveAssemblyReference.cache
+D:\Projekte\C#\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\obj\x86\Debug\Community.CsharpSqlite.SQLiteClient.dll
+D:\Projekte\C#\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite.SQLiteClient\obj\x86\Debug\Community.CsharpSqlite.SQLiteClient.pdb

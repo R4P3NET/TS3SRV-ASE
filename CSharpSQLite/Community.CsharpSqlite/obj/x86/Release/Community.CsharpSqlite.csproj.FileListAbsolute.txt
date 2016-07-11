@@ -1,0 +1,6 @@
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite\bin\x86\Release\Community.CsharpSqlite.dll.config
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite\bin\x86\Release\Community.CsharpSqlite.dll
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite\bin\x86\Release\Community.CsharpSqlite.pdb
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite\obj\x86\Release\Community.CsharpSqlite.csprojResolveAssemblyReference.cache
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite\obj\x86\Release\Community.CsharpSqlite.dll
+D:\Programmierung\Projekte\CSharp\TeamspeakAccountingServer\CSharpSQlite\Community.CsharpSqlite\obj\x86\Release\Community.CsharpSqlite.pdb
